@@ -1,0 +1,7 @@
+{
+  "name": "TESBOT",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/ZeronoC/TESBOT",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+}
