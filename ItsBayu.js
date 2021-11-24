@@ -531,7 +531,6 @@ ${prefix}report`
 img = fs.readFileSync('./image/herman.jpg')
 trans = `Zeron By Yanz\n Contoh #play Separuh aku`
 Peli = fs.readFileSync('./mp3/herman.mp3');
-zeroyt7.sendMessage(from, Peli, MessageType.audio, {quoted: faketroli, mimetype: 'audio/mp4', ptt:true})
 but = [
           { buttonId: `${prefix}sewabot`, buttonText: { displayText: 'SEWABOT🌹' }, type: 1 },
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'PEMILIK🔥' }, type: 1 }
